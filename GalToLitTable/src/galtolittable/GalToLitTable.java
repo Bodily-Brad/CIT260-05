@@ -27,8 +27,8 @@ public class GalToLitTable {
             System.out.println(gallons + " gallons is " + liters + " liters.");
             counter++;
             
-            // New line every 10th
-            if (counter == 10)
+            // New line every 10th - now 15th
+            if (counter == 15)
             {
                 System.out.println();
                 counter = 0;
